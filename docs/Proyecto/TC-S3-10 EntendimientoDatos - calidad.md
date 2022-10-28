@@ -52,7 +52,7 @@ Recuerde que está el tutorial de “Entendimiento de datos”, que será de uti
 
 ## **Recomendaciones de los entregables**
 - Recuerde incluir en la revisión todas las dimensiones de calidad
-- Si hay supuestos que debe hacer o preguntas sobre la organización, regístrelos en un archivo para envarlo más adelante a la organización para que ellos lo revisen y contesten
+- Si hay supuestos que debe hacer o preguntas sobre la organización, regístrelos en un archivo para enviarlo más adelante a la organización y pedirles que lo revisen y den una respuesta. 
 
 ## **Preguntas o más información**
 - Las preguntas que surjan en el desarrollo de esta tarea pueden registrarlas en el slack del curso.
