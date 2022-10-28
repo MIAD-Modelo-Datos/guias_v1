@@ -11,7 +11,7 @@ RaSA de forma conjunta con un grupo de consultores de inteligencia de negocios, 
 
 1.	**Análisis de calidad de datos:** Revise las 4 dimensiones de calidad vistas en el curso en las fuentes compartidas y saque conclusiones.
 
-3.  **Socialice con otros grupos:** Valide con otros grupos su resultado y documente los hallazgos encontrados de tal forma que se vaya acercando al entregable de entendimiento de datos que debe entregar la próxima semana. Aprovecha para llevar dudas de la actividad a la sesión sincrónica. En este punto, te recomendamos que sea el líder del proyecto quien se encargue de reportar las inquietudes y garantizar que fueron aclaradas para que puedan realizar con mayor claridad la actividad de endimiento de datos. 
+3.  **Socialice con otros grupos:** Valide con otros grupos su resultado y documente los hallazgos encontrados de tal forma que se vaya acercando al entregable de entendimiento de datos que debe entregar la próxima semana. Aprovecha para llevar dudas de la actividad a la sesión sincrónica. En este punto, te recomendamos que sea el líder del proyecto quien se encargue de reportar las inquietudes y garantizar que fueron aclaradas para que puedan realizar con mayor claridad la actividad de entendimiento de datos. 
 
 Recuerde que la exploración de los datos depende de los objetivos que tenga el proyecto de analítica. Es así como RaSA le comparte **ejemplos** de análisis que en este momento está interesado en responder, documentados en la matriz de temas analíticos, donde se encuentra, adicional a los análisis identificados (ver la columna análisis requeridos), los datos requeridos para lograr los objetivos del proyecto.
 
@@ -42,11 +42,7 @@ Dichos datos pueden tener errores ya que no han sido utilizados previamente para
 ## **Recursos requeridos**
 ***Datos suministrados***
 
-Los datos los puede encontrar en la base de datos: ProyectoTransaccional del servidor que manejamos en los tutoriales. También puede encontrar el diccionario de los mismos [aquí](Diccionario%20I.xlsx), ambos recursos requeridos para el desarrollo de esta tarea. Las tablas compartidas son copias de las tablas transaccionales de la organización. Dado que es posible que sean más de 5 tablas las que se comparten, se recomienda hacer análisis por los siguientes grupos de fuentes:
--	F1: GruposAreasdeServicioCopia y AreasDeServicioCopia
-- F2: TiposBeneficiosCopia
-- F3: BeneficiosPlanesCopia
-- F4: NivelDeRedCopia y CondicionesDePagoCopia 
+Los datos los pueden encontrar en la base de datos: RaSaTransaccional del servidor que manejamos en los tutoriales. También puede encontrar el diccionario de los mismos [aquí](Diccionario%I_1.xlsx), ambos recursos requeridos para el desarrollo de esta tarea. Las tablas compartidas son copias de las tablas transaccionales de la organización. Dado que es posible que sean más de 5 tablas las que se comparten, se recomienda hacer análisis por los grupos de fuentes enumerados previamente.
 
 ***Tecnología***
 
