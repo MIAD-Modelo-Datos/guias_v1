@@ -27,7 +27,7 @@ Recuerde que la exploración de los datos depende de los objetivos que tenga el 
 ** Los análisis de la tabla pueden ser agrupaciones de análisis más pequeños o se pueden extender, incluso puede que los análisis no estén completos. Es libre de proponerle nuevos análisis al negocio o complementar los de la tabla como parte de sus conclusiones. Piense en qué, le beneficiaría más a RaSA y en particular a un usuario que esté interesado en este estilo de análisis.
 
 
-Para esta actividad de análisis de calidad de datos, la empresa les comparte los siguientes grupos de fuentes de datos:
+Para esta actividad de análisis de calidad de datos, la empresa les comparte los siguientes grupos de fuentes de datos en la base de datos RaSaTransaccional:
 
 F1. AreasdeServicio: FuenteAreasDeServicio_Copia_E
 
