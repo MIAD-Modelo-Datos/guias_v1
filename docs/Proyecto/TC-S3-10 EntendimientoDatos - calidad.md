@@ -42,7 +42,7 @@ Dichos datos pueden tener errores ya que no han sido utilizados previamente para
 ## **Recursos requeridos**
 ***Datos suministrados***
 
-Los datos los pueden encontrar en la base de datos: RaSaTransaccional del servidor que manejamos en los tutoriales. También puede encontrar el diccionario de los mismos [aquí](Diccionario%I.xlsx), ambos recursos requeridos para el desarrollo de esta tarea. Las tablas compartidas son copias de las tablas transaccionales de la organización. Dado que es posible que sean más de 5 tablas las que se comparten, se recomienda hacer análisis por los grupos de fuentes enumerados previamente.
+Los datos los pueden encontrar en la base de datos: RaSaTransaccional del servidor que manejamos en los tutoriales. También puede encontrar el diccionario de los mismos [aquí](Diccionario%20I.xlsx), ambos recursos requeridos para el desarrollo de esta tarea. Las tablas compartidas son copias de las tablas transaccionales de la organización. Dado que es posible que sean más de 5 tablas las que se comparten, se recomienda hacer análisis por los grupos de fuentes enumerados previamente.
 
 ***Tecnología***
 
