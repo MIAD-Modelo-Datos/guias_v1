@@ -29,13 +29,13 @@ Recuerde que la exploración de los datos depende de los objetivos que tenga el 
 
 Para esta actividad de análisis de calidad de datos, la empresa les comparte los siguientes grupos de fuentes de datos:
 
-F1. AreasdeServicio
+F1. AreasdeServicio: FuenteAreasDeServicio_Copia_E
 
-F2. TiposBeneficios
+F2. TiposBeneficios: FuenteTiposBeneficio_Copia_E
 
-F3. BeneficiosPlanes  
+F3. BeneficiosPlanes: FuentePlanesBeneficio_Copia_E  
 
-F4. Tablas de referencia 
+F4. Tablas de referencia: FuenteCondicionesDePago_Copia_E 
 
 Dichos datos pueden tener errores ya que no han sido utilizados previamente para ser analizados. La empresa se comprometió a compartir más información con ustedes la semana 4 del curso.
 
