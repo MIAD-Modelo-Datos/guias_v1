@@ -29,15 +29,15 @@ Recuerde que la exploración de los datos depende de los objetivos que tenga el 
 ** Los análisis de la tabla pueden ser agrupaciones de análisis más pequeños o se pueden extender, incluso puede que los análisis no estén completos. Es libre de proponerle nuevos análisis al negocio o complementar los de la tabla como parte de sus conclusiones. Piense en qué, le beneficiaría más a RaSA y en particular a un usuario que esté interesado en este estilo de análisis.
 
 
-Para esta actividad de entender los datos, la empresa les comparte los siguientes grupos de fuentes de datos:
+Para esta actividad de entender los datos, la empresa les comparte los siguientes grupos de fuentes de datos y las respectivas tablas:
 
-F1. GruposAreasdeServicio y areas de servicio  
+F1. AreasdeServicio: FuenteAreasDeServicio_Copia_E
 
-F2. TiposBeneficios (Tipos de beneficio y condiciones) 
+F2. TiposBeneficios: FuenteTiposBeneficio_Copia_E
 
-F3. BeneficiosPlanes  
+F3. BeneficiosPlanes: FuentePlanesBeneficio_Copia_E
 
-F4. Tablas de referencia: NivelDeRed y CondicionesDePago 
+F4. Tablas de referencia: FuenteCondicionesDePago_Copia_E
 
 Dichos datos pueden tener errores ya que no han sido utilizados previamente para ser analizados. La empresa nos da información adicional sobre los datos:
 1.	Las áreas de servicios reportadas corresponden a todas la áreas del país  
@@ -51,7 +51,7 @@ Dichos datos pueden tener errores ya que no han sido utilizados previamente para
 ## **Recursos requeridos**
 ***Datos suministrados***
 
-Los datos los puede encontrar en la base de datos: ProyectoTransaccional del servidor que manejamos en los tutoriales. También puede encontrar el diccionario de los mismos [aquí](Diccionario%20I.xlsx), ambos recursos requeridos para el desarrollo de esta tarea, las tablas son copias de las tablas relacionales del negocio. Son 5 tablas por lo que un estudiante del grupo se debe encargar de un grupo de fuente de datos. Las tablas compartidas por grupo de fuente son:
+Los datos los puede encontrar en la base de datos: RaSaTransaccional del servidor que manejamos en los tutoriales. También puede encontrar el diccionario de los mismos [aquí](Diccionario%20I.xlsx), ambos recursos requeridos para el desarrollo de esta tarea, las tablas son copias de las tablas relacionales del negocio. Son 5 tablas por lo que un estudiante del grupo se debe encargar de un grupo de fuente de datos. Las tablas compartidas por grupo de fuente son:
 -	F1: AreasdeServicioCopia
 - F2: TiposBeneficiosCopia
 - F3: BeneficiosPlanesCopia
