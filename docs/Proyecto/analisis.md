@@ -8,3 +8,12 @@
 *La categoría de análisis posibles son Tableros de control, Análisis OLAP, Aprendizaje automático, Consultas SQL. En el curso solo vamos a abordar los tableros de control
 
 ** Los análisis de la tabla pueden ser agrupaciones de análisis más pequeños o se pueden extender, incluso puede que los análisis no estén completos. Es libre de proponerle nuevos análisis al negocio o complementar los de la tabla como parte de sus conclusiones. Piense en qué, le beneficiaría más a RaSA y en particular a un usuario que esté interesado en este estilo de análisis.
+
+
+F1. AreasdeServicio: FuenteAreasDeServicio_Copia_E
+
+F2. TiposBeneficios: FuenteTiposBeneficio_Copia_E
+
+F3. BeneficiosPlanes: FuentePlanesBeneficio_Copia_E
+
+F4. Tablas de referencia: FuenteCondicionesDePago_Copia_E
