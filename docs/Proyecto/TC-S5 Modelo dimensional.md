@@ -45,4 +45,3 @@ Adicionalmente, se le sugiere utilizar una herramienta como [GenMyModel](https:/
 - Recuerde que el modelo de datos no solo es para resolver los análisis actuales. Haga un balance entre lo proporcionado por las fuentes y los tipos de análisis que tiene hasta este momento para proponer su modelo.
 ## **Preguntas o más información**
 - Las preguntas que surjan en el desarrollo de esta tarea pueden registrarlas en el slack del curso
-- Recuerde que tiene a su disposición el tutorial de Creación y manejo de la Wiki [aquí](https://misovirtual.virtual.uniandes.edu.co/codelabs/wiki-github/index.html?index=..%2F..ETL#0)
