@@ -9,7 +9,7 @@
 
 En esta fase del proyecto, a partir de los análisis requeridos y de fuentes de datos proporcionadas, Infraestructura Visible le solicita:
 1.	**Entregable 1- Modelo multidimensional:** Una propuesta de modelo multidimensional que permita realizar la mayoría de los análisis propuestos, acompañado de una descripción y justificación del mismo. Suponga como proceso de negocio <i>OfertaPlanes</i> que se realiza de forma anual.
-2.	**Entregable 2 - Diseño del proceso ETL:** Incluir el diseño ETL propuesto para poblar las tablas asociadas al modelo multidimensional propuesto, utilizando como fuentes, las compartidas. Incluya una descripción general con los elementos que considere son importantes para la comprensión del diseño.
+2.	**Entregable 2 - Diseño del proceso ETL:** Incluir el diseño ETL propuesto para poblar las tablas asociadas al modelo multidimensional propuesto, utilizando como fuentes, las compartidas y la esta [plantilla](PlantillaDiseñoETL.xlsx). Incluya una descripción general con los elementos que considere son importantes para la comprensión del diseño.
 
 A continuación, se presentan los análisis propuestos y los datos requeridos para lograr los objetivos de esta tarea.
 
@@ -30,10 +30,10 @@ A continuación, se presentan los análisis propuestos y los datos requeridos pa
 ***Datos suministrados***
 
 Los datos los puede encontrar en la base de datos: ProyectoTransaccional del servidor que manejamos en los tutoriales. También puede encontrar el diccionario de los mismos [aquí](Diccionario%20I.xlsx), ambos recursos requeridos para el desarrollo de esta tarea. Las tablas compartidas por grupo de fuente son:
--	F1: GruposAreasdeServicioCopia y AreasDeServicioCopia
-- F2: BeneficiosCopia
-- F3: BeneficiosPlanesCopia
-- F4: NivelDeRedCopia y CondicionesDePagoCopia 
+F1. AreasdeServicio: FuenteAreasDeServicio_Copia_E
+F2. TiposBeneficios: FuenteTiposBeneficio_Copia_E
+F3. BeneficiosPlanes: FuentePlanesBeneficio_Copia_E
+F4. Tablas de referencia: FuenteCondicionesDePago_Copia_E
 
 ***Tecnología***
 
