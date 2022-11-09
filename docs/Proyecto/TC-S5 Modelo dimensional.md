@@ -29,7 +29,7 @@ A continuación, se presentan los análisis propuestos y los datos requeridos pa
 ## **Recursos requeridos**
 ***Datos suministrados***
 
-Los datos los puede encontrar en la base de datos: ProyectoTransaccional del servidor que manejamos en los tutoriales. También puede encontrar el diccionario de los mismos [aquí](Diccionario%20IV.xlsx), ambos recursos requeridos para el desarrollo de esta tarea. Las tablas compartidas por grupo de fuente son:
+Los datos los puede encontrar en la base de datos: ProyectoTransaccional del servidor que manejamos en los tutoriales. También puede encontrar el diccionario de los mismos [aquí](Diccionario%20I.xlsx), ambos recursos requeridos para el desarrollo de esta tarea. Las tablas compartidas por grupo de fuente son:
 -	F1: GruposAreasdeServicioCopia y AreasDeServicioCopia
 - F2: BeneficiosCopia
 - F3: BeneficiosPlanesCopia
