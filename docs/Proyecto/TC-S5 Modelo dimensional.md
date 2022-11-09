@@ -32,8 +32,11 @@ A continuación, se presentan los análisis propuestos y los datos requeridos pa
 Los datos los puede encontrar en la base de datos: ProyectoTransaccional del servidor que manejamos en los tutoriales. También puede encontrar el diccionario de los mismos [aquí](Diccionario%20I.xlsx), ambos recursos requeridos para el desarrollo de esta tarea. Las tablas compartidas por grupo de fuente son:
 
 F1. AreasdeServicio: FuenteAreasDeServicio_Copia_E
+
 F2. TiposBeneficios: FuenteTiposBeneficio_Copia_E
+
 F3. BeneficiosPlanes: FuentePlanesBeneficio_Copia_E
+
 F4. Tablas de referencia: FuenteCondicionesDePago_Copia_E
 
 ***Tecnología***
