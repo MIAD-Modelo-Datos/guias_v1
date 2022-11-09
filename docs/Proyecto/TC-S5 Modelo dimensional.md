@@ -41,7 +41,7 @@ F4. Tablas de referencia: FuenteCondicionesDePago_Copia_E
 
 ***Tecnología***
 
-Recuerde los videos y lecturas de modelado multidimensional, que serán de utilidad para el desarrollo de esta tarea.
+Recuerde los videos y lecturas de modelado multidimensional, que serán de utilidad para el desarrollo de esta tarea. En particular los de errores frecuentes. Este último le permitirá validar y mejorar la calidad de su modelo.
 
 Adicionalmente, se le sugiere utilizar una herramienta como [GenMyModel](https://www.genmymodel.com/) o [Lucidchart](https://lucid.app/es/users/login#/login?_gl=1*1sru4v4*_ga*MjA1NjkyODI5LjE2NTUzMjA2MzY.*_ga_MPV5H3XMB5*MTY1NTQzMTAyOS4yLjAuMTY1NTQzMTAyOS42MA..&anonId=0.8bb37e0e18168cc6c65&sessionDate=2022-06-17T01:57:06.970Z&sessionId=0.88d2ce41816f60d91a&activate=lucidchart) para dibujar el modelo. Este tipo de herramientas facilita el mantenimiento de los modelos de datos.
 
