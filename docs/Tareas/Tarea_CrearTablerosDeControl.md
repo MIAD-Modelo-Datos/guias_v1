@@ -38,7 +38,7 @@ En los videos y lecturas de esta semana, encuentra lo que debe tener en cuenta p
 - Conectarse a la base de datos donde haya realizado el cargue del hecho de movimientos y sus dimensiones o en caso de requerirlo puede utilizar la bodega WWImporters_DWH_tablero con los datos del modelo multidimensional de movimientos
 
 - **El proceso de crear un tablero con una cantidad superior a 10.000 registros puede tomar bastante tiempo y mostrar errores de conexión. En este punto las sugerencias son:** 
-  - Inicie el diseño con una tabla con pocos registros y una vez tenga la parte que quiere validar, completamente diseñada cambie la tabla a la definitiva.
+  - Inicie el diseño con una tabla con pocos registros y una vez tenga la parte que quiere validar, completamente diseñada cambie la tabla a la definitiva. Puede usar alguna de las tablas de hecho que tienen como sufijo el número de registros que tienen, por ejemplo, **Hecho_Movimiento5000**.
   - Si está accediendo a la solución provista por nosotros, copiéla en su BD y trabajela de forma independiente a otros grupos. Puede crear una muestra de los datos
   
 
