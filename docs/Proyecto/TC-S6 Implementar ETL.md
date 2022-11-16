@@ -32,7 +32,7 @@ En el proceso de carga, para manejar atributos tipo fecha, si el atributo no tie
 Estarán disponibles después de la entrega de Entendimiento de datos del proyecto.
 
 ***Modelo multidimensional propuesto***<br>
-Estará disponibles después de la entrega de Modelado multidimensional y del entendimiento de datos del proyecto
+![](Img/RaSaModelo.png)
 
 ***Tecnología***
 
