@@ -35,7 +35,7 @@ Es así como lo contrató una vez más para desarrollar los siguientes entregabl
 En los videos y lecturas de esta semana, encuentra lo que debe tener en cuenta para que sus entregables tengan la calidad esperada.
 
 ## **Recomendaciones de los entregables**
-- Conectarse a la base de datos donde haya realizado el cargue del hecho de movimientos y sus dimensiones o en caso de requerirlo puede utilizar la bodega WWImporters_DWH_solucion con los datos del modelo multidimensional de movimientos
+- Conectarse a la base de datos donde haya realizado el cargue del hecho de movimientos y sus dimensiones o en caso de requerirlo puede utilizar la bodega WWImporters_DWH_tablero con los datos del modelo multidimensional de movimientos
 
 - **El proceso de crear un tablero con una cantidad superior a 10.000 registros puede tomar bastante tiempo y mostrar errores de conexión. En este punto las sugerencias son:** 
   - Inicie el diseño con una tabla con pocos registros y una vez tenga la parte que quiere validar, completamente diseñada cambie la tabla a la definitiva.
