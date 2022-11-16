@@ -26,7 +26,7 @@ Es así como lo contrató una vez más para desarrollar los siguientes entregabl
 
 1. **Entregable 1: Mock-up del tablero de control.** Diseñe el tablero de control que piensa implementar. Para ello revise los elementos gráficos que le brinda Google Data Studio, busque ejemplos de tableros de control. No olvide pensar en, para quién está haciendo el tablero de control y el requerimiento que se quiere resolver. 
 2. **Entregable 2: Modo edición del tablero de control y video técnico.** Una vez tenga claridad del tablero de control que quiere construir, gracias al mock-up diseñado, estará listo para su desarrollo. Recuerde darle identidad de la empresa al tablero que desarrolle. Incluya un video corto (máx. 3 minutos), donde muestre los detalles de edición del tablero construido, como la base de datos a la que se conecta para traer los datos y el resultado del tablero construido.
-3. **Entregable 3: Posible uso.** Incluya un párrafo que contenga:
+3. **Entregable 3: Posible uso del tablero.** Incluya un párrafo que contenga:
    - El rol de la organización que se beneficia con el uso de este tablero de control, al igual el área a la que pertenece. Puede definirla de acuerdo al sector.
    - Un nuevo hallazgo obtenido al utilizar el tablero de control y evidencia de su identificación en una imágen sobre el tablero de control.
    - La alineación entre el hallazgo y las funciones de ese rol, los objetivos de Wide World Importers o del área a la que pertenece el rol. Si lo considera necesario puede extender el caso para darle sentido, tal como se hizo en el ejemplo del recurso de la semana sobre uso de tableros de control.
