@@ -18,7 +18,7 @@ A nivel de trabajo en grupo, dada la experiencia que la empresa tiene en este es
 ## **Recursos requeridos**
 ***Datos suministrados***
 
-Los datos los puede encontrar en la base de datos: ProyectoTransaccional del servidor que manejamos en los tutoriales. También puede encontrar el diccionario **actualizado** de los mismos [aquí](Diccionario%20IV.xlsx), ambos recursos requeridos para el desarrollo de esta tarea. Las tablas son copias de las tablas fuente del proceso que se está analizando. 
+Los datos los puede encontrar en la base de datos: RasaTransaccional_ETL del servidor que manejamos en los tutoriales. También puede encontrar el diccionario **actualizado** de los mismos [aquí](Diccionario%20I.xlsx), ambos recursos requeridos para el desarrollo de esta tarea. Las tablas son copias de las tablas fuente del proceso que se está analizando. 
 Recuerde que los datos que se usaron para el entendimiento de datos tienen como sufijo Copia (e.g., BeneficiosCopia), en caso de que deseen repasar o rehacer el ejercicio de Entendimiento de datos. 
 Los datos revisados por RaSA a partir de los resultados y/o conclusiones que obtuvieron en la etapa de entenimiento de datos y que deben ser utilizados en el proceso de ETL quedan en las tablas:
 -	F1: GruposAreasdeServicio y AreasDeServicio
@@ -73,7 +73,8 @@ b.	Sin embargo, siguen existiendo errores de consistencia, se le pide corregir e
 Recuerden que están los tutoriales "Proceso ETL" y "Proceso ETL Incremental"
 
 ## **Recomendaciones de los entregables**
-
+* Seguir las indicaciones del tutorial de ETL
+* Ser cuidadosos al momento de cargar la tabla de hechos
 
 ## **Preguntas o más información**
 - Si el cargue de datos con la función <i>guardar_db()</i> se demora, hacer uso del código de cargue por lotes que encuentra en el Tutorial de ETL al final del bloque 6: Hecho orden
