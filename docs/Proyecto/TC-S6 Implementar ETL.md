@@ -7,7 +7,7 @@
 
 En esta fase del proyecto, a partir de la capacitación recibida en los diferentes temas, algunos ejemplos de análisis requeridos, aclaraciones de la organización sobre los datos compartidos inicialmente y de un modelo multidimensional con manejo de historia propuesto, RaSA considera que están listos para realizar todo lo relacionado con el proceso de ETL. En particular requiere que trabajen en los siguientes entregables:
 
-1. **Entregable 1 - Diseño del ETL:** Incluir la **corrección** del diseño ETL propuesto para poblar las tablas asociadas al modelo multidimensional dado, utilizando como fuentes, las compartidas. Esto incluye manejo de historia. Recuerde incluir la descripción del diseño.
+1. **Entregable 1 - Diseño del ETL:** Incluir la **corrección** del diseño ETL propuesto para poblar las tablas asociadas al modelo multidimensional dado, utilizando como fuentes, las compartidas. Esto incluye manejo de historia. Recuerde incluir la descripción del diseño. Recuerda utilizar esta [plantilla](PlantillaDiseñoETL.xlsx).
 2. **Entregable 2 - Implementación del ETL:** implementación del proceso ETL de las dimensiones y tabla de hechos del proyecto incluyendo manejo de historia.  Recuerde incluir la descripción del proceso de implementación.
 
 A nivel de trabajo en grupo, dada la experiencia que la empresa tiene en este estilo de proyectos, le sugiere lo siguiente:
@@ -66,6 +66,9 @@ b.	Sin embargo, siguen existiendo errores de consistencia, se le pide corregir e
 
 
 ***Modelo multidimensional propuesto***<br>
+El modelo propuesto contiene dos tablas de Hechos. La primera de ellas, la de **HechoPlanesTiposBeneficio** registra la emisión de planes, en una fecha, en la cual se definen los tipos de beneficios, sus condiciones, el área de servicio al que aplica el tipo beneficio, las condiciones del pago de Coseguro y Copago y como medidas los valores de copago, coseguro y la cantidad límite del tipo de beneficio. Adicionalmente, para el manejo de historia de cambios a nivel de las condiciones de tipo beneficio, se propone un tipo 4, en el cual se crea la minidimensión **MiniCondicionesTipoBeneficio** y para el registro de la historia de cambios se tiene la factless **HechoHistCondicionesTiposBeneficio**. Dado que se trata de una factless, se adiciona la medida Cambio, la cual tendrá un valor constante de 1 para todas las filas. A nivel de la dimensión Proveedor, solo se tendrán los identificadores, a pesar de que dicha dimensión tiene otros atributos. Esto por razones de simplificación del caso.
+
+
 ![](Img/RaSaModelo.png)
 
 ***Tecnología***
