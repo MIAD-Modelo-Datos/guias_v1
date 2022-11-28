@@ -33,7 +33,7 @@ Asociada a esta entrega encuentra un segundo enlace para determinar el grupo al 
 ## **Recursos requeridos**
 Todo el material desarrollado en el curso. Recuerde que estos recursos a nivel de datos y documentación los encuentra en estos enlaces del  repositorio:
 
-●	Datos compartidos en la base de datos **Proyecto_DWH_sln**, que corresponden a las tablas que representan el modelo dimensional compartido por RaSA como solución, el cual se presenta en la imagen que se presenta más adelante.
+●	Datos compartidos en la base de datos **RaSaTransaccional_Tablero**, que corresponden a las tablas que representan el modelo dimensional compartido por RaSA como solución, el cual se presenta en la imagen que se presenta más adelante.
 
 El modelo estará disponible después de la entrega de Modelado multidimensional del proyecto.
 
