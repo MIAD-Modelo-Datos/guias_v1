@@ -40,9 +40,6 @@ El modelo estará disponible después de la entrega de Modelado multidimensional
 ## **Recomendaciones de los entregables**
 - Tener una copia de las tablas compartidas en su ambiente de máquina virtual para que puedan trabajarlas de forma independiente.
 - Dividan el proceso de construcción del tablero de control: la primera parte donde adicionan los gráficos y la segunda, donde prueba con la totalidad de los datos. Durante la primera parte, pueden crear una tabla/vista con la misma estructura de la que requieren y una muestra de los registros para entender su comportamiento. Una vez tengan listo y probado el gráfico pueden hacer la consulta sobre la tabla/vista con todos los datos.
-- Padlet a utilizar:
-    - Propuestas de proyecto: 
-    - Contraseña: 
     
 ## **Preguntas o más información**
 Las preguntas que surjan en el desarrollo de esta tarea pueden registrarlas en el slack del curso
