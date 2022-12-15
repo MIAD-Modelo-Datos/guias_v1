@@ -18,7 +18,7 @@ Practicar lo aprendido en el tutorial de modelado de datos y SQL y retomar el le
 4. Script SQL de [creación de tablas](scriptTarea.sql)
 
 # Enunciado
-Ahora que sabe cómo crear modelos multidimensionales y hacer sentencias básicas con SQL, lo que debe hacer en la primera parte de esta tarea, es crear en una base de datos relacional las tablas que representan el modelo multidimensional compartido de Wide World Importers (WWI), poblarlas y consultarlas. En la segunda parte, va a practicar la competencia de modelar con un caso diferente al de la primera parte. A continuación encuentra el detalle de las actividades a realizar:  
+Ahora que sabe cómo crear modelos multidimensionales y hacer sentencias básicas con SQL, lo que debe hacer en la primera parte de esta tarea, es practicar la competencia de modelar con **un caso diferente al de Wide World Importers (WWI)**. En la segunda parte, vas a crear en una base de datos relacional de las tablas que representan el modelo multidimensional compartido de Wide World Importers (WWI), poblarlas y consultarlas. A continuación encuentra el detalle de las actividades a realizar:  
 
 1.	**MODELO MULTIDIMENSIONAL**: Proponga un modelo multidimensional para el siguiente caso, incluya detalles del modelo como el nivel de granularidad y aclaraciones que considere importantes, como parte de la entrega del mismo. Esta parte **NO** incluye la creación de tablas ni su población.
 
