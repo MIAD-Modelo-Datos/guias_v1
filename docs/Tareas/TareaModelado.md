@@ -20,7 +20,7 @@ Practicar lo aprendido en el tutorial de modelado de datos y SQL y retomar el le
 # Enunciado
 Ahora que sabe cómo crear modelos multidimensionales y hacer sentencias básicas con SQL, lo que debe hacer en la primera parte de esta tarea, es practicar la competencia de modelar con **un caso diferente al de Wide World Importers (WWI)**. En la segunda parte, vas a crear en una base de datos relacional las tablas que representan el modelo multidimensional compartido de Wide World Importers (WWI), poblarlas y consultarlas. A continuación encuentras el detalle de las actividades a realizar:  
 
-1.	**MODELO MULTIDIMENSIONAL**: Proponga un modelo multidimensional para el siguiente caso, incluya detalles del modelo como el nivel de granularidad y aclaraciones que considere importantes, como parte de la entrega del mismo. Esta parte **NO** incluye la creación de tablas ni su población.
+**1. MODELO MULTIDIMENSIONAL**: Proponga un modelo multidimensional para el siguiente caso, incluya detalles del modelo como el nivel de granularidad y aclaraciones que considere importantes, como parte de la entrega del mismo. Esta parte **NO** incluye la creación de tablas ni su población.
 
 **ZOOALPES** 
 Inspirado en el zoológico de Cali -- http://www.zoologicodecali.com.co 
@@ -32,7 +32,7 @@ Los análisis planteados pretenden identificar recorridos típicos de los visita
 
 ZooAlpes maneja diferentes tipos de entrada entre los que se encuentran: plan **TRIBU** que permita el ingreso de 4 personas por 1 año (Todos los días 9:00 am a 4:30 pm) con un costo de $150.000, el plan **YACAIRA** que permite el ingreso ilimitado para 2 personas por 1 año (Todos los días 9:00 am a 4:30 pm) por $91.000, el plan **CAMINANTES**, que permite el ingreso ilimitado para 1 persona por 6 meses (Todos los días 7:00 am a 4:30 pm) por $91.000, o sin plan que no incluye pago por adelantado sino pago en el momento de ingresar al parque. Cada uno de estos tipos de entrada determina las atracciones que se pueden visitar sin costo adicional y las que requieren un valor adicional. Asociado a los planes, se tiene información del usuario que corresponde a su identificación, nombre, rango de edad, ocupación, estado civil, y número de hijos.   
 
-2.	**MODELO ROLAP CASO MOVIMIENTOS WWImporters**: A partir del requerimiento analítico, modelo multidimensional y sentencias de creación de tablas que se dan como insumo para esta tarea, prepare los siguientes entregables.
+**2. MODELO ROLAP CASO MOVIMIENTOS WWImporters**: A partir del requerimiento analítico, modelo multidimensional y sentencias de creación de tablas que se dan como insumo para esta tarea, prepare los siguientes entregables.
 Es importante que mantenga las tablas creadas para que los tutores puedan validar las consultas en el momento de calificar su tarea.
 
 -	**Entregable CREATE**: Defina las sentencias para crear las tablas de **cliente** y **movimiento** de acuerdo con el modelo multidimensional que se comparte.
