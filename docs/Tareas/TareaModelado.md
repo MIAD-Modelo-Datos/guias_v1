@@ -32,7 +32,9 @@ Los análisis planteados pretenden identificar recorridos típicos de los visita
 
 ZooAlpes maneja diferentes tipos de entrada entre los que se encuentran: plan **TRIBU** que permita el ingreso de 4 personas por 1 año (Todos los días 9:00 am a 4:30 pm) con un costo de $150.000, el plan **YACAIRA** que permite el ingreso ilimitado para 2 personas por 1 año (Todos los días 9:00 am a 4:30 pm) por $91.000, el plan **CAMINANTES**, que permite el ingreso ilimitado para 1 persona por 6 meses (Todos los días 7:00 am a 4:30 pm) por $91.000, o sin plan que no incluye pago por adelantado sino pago en el momento de ingresar al parque. Cada uno de estos tipos de entrada determina las atracciones que se pueden visitar sin costo adicional y las que requieren un valor adicional. Asociado a los planes, se tiene información del usuario que corresponde a su identificación, nombre, rango de edad, ocupación, estado civil, y número de hijos.   
 
-2.	**MODELO ROLAP CASO MOVIMIENTOS WWImporters**: A partir del requerimiento analítico, modelo multidimensional y sentencias de creación de tablas que se dan como insumo para esta tarea, prepare los siguientes entregables. 
+2.	**MODELO ROLAP CASO MOVIMIENTOS WWImporters**: A partir del requerimiento analítico, modelo multidimensional y sentencias de creación de tablas que se dan como insumo para esta tarea, prepare los siguientes entregables.
+Es importante que mantenga las tablas creadas para que los tutores puedan validar las consultas en el momento de calificar su tarea.
+
 -	**Entregable CREATE**: Defina las sentencias para crear las tablas de **cliente** y **movimiento** de acuerdo con el modelo multidimensional que se comparte.
 -	**Entregable INSERT**: Defina las sentencias para la inserción de 5 registros en todas las tablas del modelo multidimensional de **movimientos**.
 -	**Entregable SELECT**: Defina las sentencias para consultar los datos de manera que le permita resolver el requerimiento analítico sobre **movimientos**. 
