@@ -51,8 +51,8 @@ Es importante que mantenga las tablas creadas para que los tutores puedan valida
 - GenMyModel: https://www.genmymodel.com/
 
 ### Recuerde:
-- En la primera parte, mostrar evidencia de los resultados obtenidos
-- Incluir las llaves foráneas a nivel de la tabla de hechos
 - En estos modelos multidimensionales se debe identificar claramente la tabla de hechos
 - Revise los errores frecuentes dados en videos de la semana y valide que su modelo no los tenga
 - No olviden la dimensión Fecha
+- En la segunda parte, mostrar evidencia de los resultados obtenidos
+- Incluir las llaves foráneas a nivel de la tabla de hechos
