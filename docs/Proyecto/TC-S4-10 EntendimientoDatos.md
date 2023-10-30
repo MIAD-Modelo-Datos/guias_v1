@@ -15,12 +15,16 @@ RaSA de forma conjunta con un grupo de consultores de inteligencia de negocios, 
 
 3.  **Entregable 3 - Conclusión del entendimiento de datos:** Valide y documente si es posible realizar los análisis solicitados, si debe hacer ajustes en la forma como han sido planteados o si requiere de información adicional para el desarrollo de los mismos. En caso de ser posible, indique explicitamente las columnas que permiten relacionar los registros de las diferentes fuentes para poder integrarlas y no olvide incluir la lista de supuestos y dudas que quedan luego de este ejercicio para que sea la empresan quien de respuesta a esas inquietudes.
 
-4.  **Entregable 4 - Reflexión sobre el trabajo en equipo:** De forma individual califique el desempeño de sus compañeros en una escala de 1 a 5. Tengan en cuenta los siguientes criterios y analícenlos a la luz del comportamiento de las actividades realizadas en esta entrega. Utilice esta información para socializarla al interior del grupo y llegar a un consenso por cada estudiante y criterio. Este consenso es el que deben entregar como entregable 4.
+4.  **Entregable 4 - Reflexión sobre el trabajo en equipo:** De forma individual califique el desempeño de sus compañeros en una escala de 1 a 5. Tengan en cuenta los siguientes criterios y analícenlos a la luz del comportamiento de las actividades realizadas en esta entrega. Utilice esta información para socializarla al interior del grupo y llegar a un consenso por cada estudiante y criterio. Este consenso es el que deben entregar en este punto de la tarea.
 
-1. Cumplimiento: Cumplió con los compromisos definidos por el grupo en las fechas pactadas.
-2. Calidad: Las actividades realizadas las hizo con un buen nivel de calidad, aplicando lo visto en el curso y no fue necesario rehacer, completar o no cumplir con dichas partes de los entregables.
-3. Aporte: Aportó al desarrollo del proyecto dando pautas para su desarrollo y buscando soluciones en caso de dificultades. 
-4. Comportamiento: Trató con respecto y amabilidad a los miembros del equipo.  Estuvo receptivo a sugerencias o criticas de los miembros del equipo.
+&nbsp; &nbsp; &nbsp; &nbsp;a. **Cumplimiento**: Cumplió con los compromisos definidos por el grupo en las fechas pactadas.
+
+&nbsp; &nbsp; &nbsp; &nbsp;b. **Calidad**: Las actividades realizadas las hizo con un buen nivel de calidad, aplicando lo visto en el curso y no fue necesario rehacer, completar o no cumplir con dichas partes de los entregables.
+
+&nbsp; &nbsp; &nbsp; &nbsp;c. **Aporte**: Aportó al desarrollo del proyecto dando pautas para su desarrollo y buscando soluciones en caso de dificultades.
+
+&nbsp; &nbsp; &nbsp; &nbsp;d. **Comportamiento**: Trató con respecto y amabilidad a los miembros del equipo.  Estuvo receptivo a sugerencias o criticas de los miembros del equipo.
+
 
 Recuerde que la exploración de los datos depende de los objetivos que tenga el proyecto de analítica. Es así como RaSA le comparte **ejemplos** de análisis que en este momento está interesado en responder, documentados en la matriz de temas analíticos, donde se encuentra, adicional a los análisis identificados (ver la columna análisis requeridos), los datos requeridos para lograr los objetivos del proyecto.
 
