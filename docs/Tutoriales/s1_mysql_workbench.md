@@ -27,7 +27,7 @@ Diríjase a la aplicación de MySQL Workbench.
 Agregue una nueva conexión a una base de datos MySQL.
 <img src="./img/workbench_add.PNG" width="800"/>
 
-Del documento de credenciales que encuentra en la sección de conexión a máquinas virtuales, use su usuario y clave. Digite el nombre que le quiere poner a la conexión en *Connection Name*, la dirección IP del servidor en *Hostname* (e.g., 157.253.236.116) y el puerto en *Port* (8080).
+Del documento de credenciales que encuentra en la sección de conexión a máquinas virtuales, use su usuario y clave. Digite el nombre que le quiere poner a la conexión en *Connection Name*, la dirección IP del servidor en *Hostname* (e.g., 157.253.236.120) y el puerto en *Port* (8080).
 
 Digite en *Username* su usuario indicado en el documento de credenciales. Ejemplo: **Estudiante_1_202215**. En *Password* presione el botón *Store in Vault* y agregue la contraseña asignada a su usuario en la pestaña emergente.
 
