@@ -39,6 +39,42 @@ F3. BeneficiosPlanes: FuentePlanesBeneficio_Copia_E
 
 F4. Tablas de referencia: FuenteCondicionesDePago_Copia_E
 
+***Respuestas del negocio a conclusiones de Entendimiento***
+
+Después de hacer una revisión a las fuentes que fueron inicialmente proporcionadas, gracias a sus comentarios y preguntas, encontramos los siguientes errores relacionados con las reglas de negocio que les compartimos:
+
+1.	Las áreas de servicio NO cubren todos los condados del país.
+2.	No fue posible validar la condición de límites cuantitativos, así que, si se evidencia límites cuantitativos sin valor o con un valor en cero, en los planes que los ofrecen, debe colocar como valor por defecto 333 para poder identificar el error y corregirlo en el futuro.
+3.	Se corrigió la fecha de 1800 que estaba en la fuente de áreas de servicio.
+4.	La fuente de áreas de servicio tenía información solo de los años 2017 y 2018 y faltaba todo el año 2019. 
+5.	En la fuente de tipos de beneficios no deberían existir diferentes condiciones y unidad de límite para el mismo tipo de beneficio en el mismo año. Esto fue arreglado y solo debe existir un valor de condiciones y unidad límite de tipo de beneficio por año.
+6.	El valor máximo Copago y Coseguro para el año 2018 es 3500 y 100 respectivamente.
+7.	En la fuente de condiciones de pago se eliminaron los registros con el mismo tipo y descripción que tenía diferentes identificadores.
+
+RaSa también le comenta que:
+
+1.	En la fuente de planes beneficio
+a.	Se corrigieron los registros que tenían valores nulos en IdPlan, IdTipoBeneficio o IdAreaDeServicio. 
+b.	Se eliminaron los registros con IdTipoBeneficio que no estaban en la fuente de Tipos de Beneficios. Sin embargo, todavía existen IdAreaDeServicio que no están presentes en la fuente correspondiente, por lo que se le recomienda crear un registro de desconocido (Identificador=0) y NO omitir esta información en el proceso de carga. 
+c.	Finalmente, las fechas inválidas fueron actualizadas, pero todavía existen fechas con otro tipo de formato y se le pide que las transforme para que todas queden con formato YYYY-MM-DD.
+
+2.	En la fuente de tipos de beneficio
+a.	Se corrigieron los registros con diferentes unidades de límites para el mismo beneficio en el mismo año. 
+b.	Sin embargo, siguen existiendo errores de consistencia en los valores de las condiciones, se le pide cambiar los diferentes valores para que queden únicamente “Yes” y “No”.
+
+3.	En la fuente de áreas de servicio
+a.	Se eliminaron los registros con diferentes IdGeografia cuyo contenido en los demás atributos era el mismo. 
+b.	Se corrigieron los registros con IdAreaDeServicio e IdGeografia nulos. 
+c.	Las fechas erróneas fueron actualizadas por las correctas. 
+d.	Se le pide corregir los registros con áreas negativas, multiplicando por -1 esos valores.
+e.	Finalmente, los que presentan un error de digitación en la población actual con 3 ceros y un uno al final del número (0001) debe corregirlos y quitarles estos últimos 4 dígitos, de tal forma que si el valor era 27540001 debe quedar 2754.
+
+4.	En la fuente de condiciones de pago
+a.	Se actualizaron los registros con tipo NaN 
+b.	Sin embargo, siguen existiendo errores de consistencia, se le pide corregir el tipo a solo Copago y Coseguro.
+5.	Puede que existan todavía duplicados de los registros en las fuentes, por favor revisar y eliminarlos.
+6.	Estaremos atentos si quedaron preguntas sin contestar para hacerlo en la menor brevedad.
+
 ***Tecnología***
 
 Recuerde los videos y lecturas de modelado multidimensional, que serán de utilidad para el desarrollo de esta tarea. En particular los de errores frecuentes. Este último le permitirá validar y mejorar la calidad de su modelo.
