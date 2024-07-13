@@ -67,7 +67,10 @@ b.	Sin embargo, siguen existiendo errores de consistencia, se le pide corregir e
 
 ***Modelo multidimensional propuesto***<br>
 
-RaSa le comenta que las respuestas estarán disponibles después de la entrega del modelado.
+El modelo propuesto contiene dos tablas de Hechos. La primera de ellas, la de **HechoPlanesTiposBeneficio** registra la emisión de planes, en una fecha, en la cual se definen los tipos de beneficios, sus condiciones, el área de servicio al que aplica el tipo beneficio, las condiciones del pago de Coseguro y Copago y como medidas los valores de copago, coseguro y la cantidad límite del tipo de beneficio. Adicionalmente, para el manejo de historia de cambios a nivel de las condiciones de tipo beneficio, se propone un tipo 4, en el cual se crea la minidimensión **MiniCondicionesTipoBeneficio** y para el registro de la historia de cambios se tiene la factless **HechoHistCondicionesTiposBeneficio**. Dado que se trata de una factless, se adiciona la medida Cambio, la cual tendrá un valor constante de 1 para todas las filas. A nivel de la dimensión Proveedor, solo se tendrán los identificadores, a pesar de que dicha dimensión tiene otros atributos. Esto por razones de simplificación del caso.
+
+
+![](Img/RaSaModelo.png)
 
 
 ***Tecnología***
