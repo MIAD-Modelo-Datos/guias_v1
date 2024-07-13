@@ -21,7 +21,7 @@ A nivel de trabajo en grupo, dada la experiencia que la empresa tiene en este es
 Los datos los puede encontrar en la base de datos: RasaTransaccional_ETL del servidor que manejamos en los tutoriales. También puede encontrar el diccionario de los mismos [aquí](Diccionario%20I.xlsx), ambos recursos requeridos para el desarrollo de esta tarea. Las tablas son copias de las tablas fuente del proceso que se está analizando. 
 Recuerde que los datos que se usaron para el entendimiento de datos tienen como sufijo Copia (e.g., BeneficiosCopia), en caso de que deseen repasar o rehacer el ejercicio de Entendimiento de datos. 
 Los datos revisados por RaSA a partir de los resultados y/o conclusiones que obtuvieron en la etapa de entenimiento de datos y que deben ser utilizados en el proceso de ETL quedan en las tablas:
-- F1: GruposAreasdeServicio y AreasDeServicio
+- F1: AreasDeServicio
 - F2: Beneficios
 - F3: BeneficiosPlanes
 - F4: NivelDeRed y CondicionesDePago 
